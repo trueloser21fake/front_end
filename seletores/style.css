@@ -1,0 +1,13 @@
+*{}
+
+/* Seleciona h1 e p*/
+h1,
+p{
+    color: rgb(61, 132, 69);
+    text-align: center;
+}
+/*Seleciona 'a' dentro de p*/
+p a{
+    color: rgb(135, 135, 249);
+    underline: none;
+}
