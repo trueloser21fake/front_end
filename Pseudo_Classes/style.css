@@ -1,0 +1,23 @@
+a {
+    display: inline-block;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-family: Arial;
+    background: #caf;
+    color: #217;
+}
+
+a:hover {
+    background: #adf;
+    color: #147;
+    transition-delay: 3ms;
+    font-size: 2em;
+}
+a:focus{   
+    background: rgb(30, 222, 12);
+    color: rgb(119, 43, 17);
+}
+a:active {
+    background: rgb(255, 0, 0);
+    color: rgb(21, 10, 10);
+}
